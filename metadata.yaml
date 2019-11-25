@@ -1,0 +1,47 @@
+_repo: Le-capitaine-Fracasse_60746
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dorè, Gustave
+    - Doré, Louis Auguste Gustave
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Theophile
+    - Gaultier, Theophile
+    - Gautier, Pierre-Jules-Théophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Théophile_Gautier
+    - https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+- FR Illustrateurs
+- FR Jeunesse
+gutenberg_issued: '2019-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60746'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le capitaine Fracasse
+url: http://www.gutenberg.org/ebooks/60746
